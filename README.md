@@ -1,0 +1,2 @@
+# Jenkinsfile
+For the traninig
